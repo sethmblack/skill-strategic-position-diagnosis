@@ -3,8 +3,9 @@ name: strategic-position-diagnosis
 description: Distinguish between operational effectiveness improvements and true strategic positioning to clarify what constitutes sustainable competitive advantage.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5078
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - strategic-position-diagnosis
 - transformation
